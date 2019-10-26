@@ -31,5 +31,3 @@ O projeto está sendo desenvolvido por:
 Gustavo Valadares Castro - Aluno do Terceiro Ano de Eletrotécnica no CEFET MG
 Gabriel Fernandes Rezende - Aluno do Terceiro Ano de Eletrotécnica no CEFET MG
 Letícia Capanema - Aluna do Segundo Ano de Eletrotécnica do CEFET MG
-
-![1ST Diagram_bb](https://user-images.githubusercontent.com/45861294/62827012-e1da8e80-bb9c-11e9-8b0e-f02e50bdd1c9.png)
